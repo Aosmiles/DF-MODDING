@@ -1,0 +1,11 @@
+creature_monster_pamphlets
+
+[OBJECT:CREATURE]
+
+[CREATURE:BRICK_GOLEM]
+  [DESCRIPTION:A living construct made out of bricks.]
+  [BODY:BASIC_2PARTBODY:BASIC_3PARTLEGS:FURNACE]
+  [LARGE_ROAMING]
+  [BIOME:ANY_LAND]
+  [NOBONES]
+  [EXTRAVISION]
