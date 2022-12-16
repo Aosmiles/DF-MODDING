@@ -1,5 +1,0 @@
-b_detail_plan_mp
-
-[OBJECT:BODY_DETAIL_PLAN]
-
-[BODY_DETAIL_PLAN:]
