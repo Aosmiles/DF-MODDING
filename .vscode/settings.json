@@ -1,5 +1,5 @@
 {
   "files.associations": {
-    "*.txt": "df_raw",
+    "**/objects/*.txt": "df_raw",
   }
 }

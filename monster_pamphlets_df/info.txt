@@ -1,0 +1,8 @@
+[ID:monster_pamphlets]
+[NUMERIC_VERSION:001]
+[DISPLAYED_VERSION:0.0.1]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:001]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.0.1]
+[AUTHOR:Arlin Smiles]
+[NAME:Monster Pamphlet Monsters]
+[DESCRIPTION:this mod adds extra monsters from monster pamphlets.]

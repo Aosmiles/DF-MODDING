@@ -1,0 +1,8 @@
+tile_page_mp
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:BRICK_GOLEM_MP]
+	[FILE:images/brick_golem_mp.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:32:32]
